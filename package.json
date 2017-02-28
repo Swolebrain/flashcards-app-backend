@@ -1,0 +1,18 @@
+{
+  "name": "mysql-nodejs-recipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.11.0"
+  }
+}
